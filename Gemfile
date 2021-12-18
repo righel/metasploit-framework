@@ -39,6 +39,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'rspec-rerun'
   gem 'rubocop'
+  gem 'ruby-ldapserver'
 end
 
 group :test do

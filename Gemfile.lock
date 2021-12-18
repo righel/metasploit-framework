@@ -427,6 +427,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.14.0)
       parser (>= 3.0.1.1)
+    ruby-ldapserver (0.5.3)
     ruby-macho (2.5.1)
     ruby-prof (1.4.2)
     ruby-progressbar (1.11.0)
@@ -515,10 +516,11 @@ DEPENDENCIES
   rspec-rails
   rspec-rerun
   rubocop
+  ruby-ldapserver
   ruby-prof (= 1.4.2)
   simplecov (= 0.18.2)
   timecop
   yard
 
 BUNDLED WITH
-   2.1.4
+   2.2.33
